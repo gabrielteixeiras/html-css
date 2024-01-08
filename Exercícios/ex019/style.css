@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+* {
+    font: normal 1em arial, verdana, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #8338F2, #8418ac);
+    text-align: left;
+    text-align: justify;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(67, 0, 148, 0.616);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #57337D;
+    font: italic bolder 2.5em Times, 'Times new roman', serif;
+    text-align: center;
+    text-shadow: 1px 1px 2px #A863F2;
+}
+
+h1#principal {
+    color: #7344A6;
+    font: italic bolder 3em Times, 'Times new roman', serif;
+    text-align: center;
+    text-shadow: 1px 1px 2px #A863F2;
+}
+
+h2 {
+    color: #9055CF;
+    font: italic bolder 2em Times, 'Times new roman', serif;
+    text-align: left;
+    text-shadow: 1px 1px 2px #3A2354;
+}
+
+.basico {
+    color: rgb(17, 160, 17);
+}
+
+.intermediario {
+    color: rgb(150, 160, 17);
+}
+
+.avancado {
+    color: rgb(160, 17, 17);
+}
