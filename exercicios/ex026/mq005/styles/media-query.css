@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    
+    .menu__navigation {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .main-container {
+        width: 768px;
+    }
+    
+    .header__navigation .material-symbols-outlined {
+        display: none;
+    }
+
+    .header__navigation > .menu__navigation {
+        display: block;
+    }
+
+    .menu__navigation .navigation li {
+        display: inline-block;
+    }
+}

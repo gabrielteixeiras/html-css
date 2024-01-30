@@ -1,0 +1,14 @@
+:root {
+    /* COLORS */
+    --background-body: #d3d3d3;
+    --background-header: #949494;
+    --background-nav1: #525150;
+    --background-nav2: rgb(48, 48, 48);
+    --background-nav3: #979797;
+    --background-main: #fff;
+    --color-text1: #fff;
+    --color-text2: #000;
+
+    /* FONT */
+    --font-geral: Arial, Helvetica, sans-serif;
+}
